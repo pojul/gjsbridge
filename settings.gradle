@@ -1,0 +1,4 @@
+rootProject.name = "Gjsbridge"
+include ':app'
+include ':gjsbridge'
+include ':basemvvm'
